@@ -1,0 +1,14 @@
+[
+  {
+    "URL": "https://development--boardeffect.netlify.app/blog/what-is-the-role-of-an-ex-officio-board-member",
+    "Status": "fb logo was found, Test PASSED!"
+  },
+  {
+    "URL": "https://development--boardeffect.netlify.app/en-gb/blog/what-is-the-role-of-an-ex-officio-board-member",
+    "Status": "boardeffect 404 was observed"
+  },
+  {
+    "URL": "https://development--boardeffect.netlify.app/en-au/blog/what-constitutes-a-quorum/",
+    "Status": "boardeffect 404 was observed"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "URL": "https://development--boardeffect.netlify.app/blog/corporate-governance-best-practices",
+    "Status": "fb logo was found, Test PASSED!"
+  },
+  {
+    "URL": "https://development--boardeffect.netlify.app/blog/what-is-an-advisory-board-meeting",
+    "Status": "fb logo was found, Test PASSED!"
+  },
+  {
+    "URL": "https://development--boardeffect.netlify.app/en-gb/blog/nonprofit-board-member-responsibilities",
+    "Status": "boardeffect 404 was observed"
+  },
+  {
+    "URL": "https://development--boardeffect.netlify.app/en-au/blog/what-is-the-role-of-an-ex-officio-board-member/",
+    "Status": "boardeffect 404 was observed"
+  }
+]

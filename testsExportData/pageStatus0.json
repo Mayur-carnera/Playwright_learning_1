@@ -1,0 +1,18 @@
+[
+  {
+    "URL": "https://development--boardeffect.netlify.app/blog/gender-diversity-board-of-directors",
+    "Status": "fb logo was found, Test PASSED!"
+  },
+  {
+    "URL": "https://development--boardeffect.netlify.app/en-gb/blog/best-practices-for-writing-a-board-resolution",
+    "Status": "fb logo was found, Test PASSED!"
+  },
+  {
+    "URL": "https://development--boardeffect.netlify.app/en-gb/blog/nonprofit-board-positions-structure-roles-and-responsibilities",
+    "Status": "boardeffect 404 was observed"
+  },
+  {
+    "URL": "https://development--boardeffect.netlify.app/en-au/blog/board-meeting-agenda-format-template/",
+    "Status": "boardeffect 404 was observed"
+  }
+]

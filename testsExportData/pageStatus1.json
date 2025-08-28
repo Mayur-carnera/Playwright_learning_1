@@ -1,0 +1,18 @@
+[
+  {
+    "URL": "https://development--boardeffect.netlify.app/blog/tips-save-time-nonprofit-board-administrators/",
+    "Status": "fb logo was found, Test PASSED!"
+  },
+  {
+    "URL": "https://development--boardeffect.netlify.app/en-gb/blog/what-constitutes-a-quorum",
+    "Status": "boardeffect 404 was observed"
+  },
+  {
+    "URL": "https://development--boardeffect.netlify.app/en-au/blog/board-alignment-nonprofits-infographic/",
+    "Status": "fb logo was found, Test PASSED!"
+  },
+  {
+    "URL": "https://development--boardeffect.netlify.app/en-au/blog/how-to-write-a-report-to-the-board-of-directors/",
+    "Status": "boardeffect 404 was observed"
+  }
+]
