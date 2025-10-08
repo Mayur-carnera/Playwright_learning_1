@@ -16,7 +16,7 @@ const { test, expect } = require('@playwright/test');
 
 test('Shopping multiple items ', async ({ page }, testInfo) => {
 
-    const userEmail = 'andyDufresne_7@shawshank.com';
+    const userEmail = 'andyDufresne_8@shawshank.com';
     const userName = 'andy dufresne'
     const name = userName.split(' ')
     const fName = name[0]
@@ -89,7 +89,7 @@ test('Shopping multiple items ', async ({ page }, testInfo) => {
 
     let prodCount = await cartProductList.count();
 
-    expect(prodCount).toBe(12);
+    expect.soft(prodCount).toBe(12);
 
     // ensure added quantity is 1 per each item
 
